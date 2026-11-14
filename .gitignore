@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# raw and processed data are large and reproducible: run `python src/download.py all` then `./run_all.sh`
+data/raw/journeys/
+data/processed/*.parquet
+data/processed/*.db

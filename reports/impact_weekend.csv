@@ -1,0 +1,16 @@
+vans,selector,days,trips_served_per_day
+3,Naive (last week),22,3.313636363636364
+3,Poisson regression,22,4.3545454545454545
+3,Random forest,22,4.468181818181818
+3,LightGBM,22,4.809090909090909
+3,Perfect foresight (upper bound),22,5.559090909090909
+5,Naive (last week),22,3.6090909090909093
+5,Poisson regression,22,4.490909090909091
+5,Random forest,22,5.468181818181819
+5,LightGBM,22,5.740909090909091
+5,Perfect foresight (upper bound),22,5.922727272727273
+10,Naive (last week),22,6.109090909090909
+10,Poisson regression,22,6.2
+10,Random forest,22,6.931818181818182
+10,LightGBM,22,7.113636363636363
+10,Perfect foresight (upper bound),22,8.631818181818183

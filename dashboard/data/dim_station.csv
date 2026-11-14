@@ -1,0 +1,41 @@
+station_id,display_name,station_type,lat,lon,departures_per_day,nb_docks,share_am_peak,share_pm_peak,share_weekend,am_peak_net_flow_per_day
+001072,"Waterloo Station 3, Waterloo",Morning origin,51.503791,-0.112824,162.5,35,0.757,0.033,0.036,-169.8
+001075,"Hyde Park Corner, Hyde Park",Leisure / park,51.503117,-0.15352,148.8,36,0.041,0.188,0.377,5.8
+002696,"Waterloo Station 1, Waterloo",Morning origin,51.504027,-0.113864,123.3,36,0.497,0.099,0.118,-69.3
+001011,"Argyle Street, Kings Cross",Morning origin,51.529416,-0.123944,107.8,45,0.372,0.122,0.179,-42.9
+002587,"Wormwood Street, Liverpool Street",Office / City,51.516154,-0.082422,105.2,15,0.238,0.322,0.129,6.2
+001132,"Albert Gate, Hyde Park",Leisure / park,51.502953,-0.158456,100.1,34,0.046,0.212,0.341,10.3
+000960,"Hop Exchange, The Borough",Mixed,51.504627,-0.091773,99.4,56,0.081,0.239,0.255,23.3
+300083,"Duke Street Hill, London Bridge",Mixed,51.506304,-0.087262,94.7,21,0.207,0.224,0.21,4.7
+200183,"Battersea Park Road, Nine Elms",Mixed,51.479501,-0.14177,93.6,27,0.139,0.202,0.284,9.2
+001157,"Black Lion Gate, Kensington Gardens",Leisure / park,51.509908,-0.187842,89.7,24,0.126,0.165,0.375,-9.5
+022179,"Exhibition Road, Knightsbridge",Mixed,51.499917,-0.174554,87.8,20,0.071,0.242,0.241,24.5
+001161,"Brushfield Street, Liverpool Street",Office / City,51.518908,-0.079249,87.3,34,0.088,0.333,0.228,41.3
+001142,"Tooley Street, Bermondsey",Mixed,51.503493,-0.07962,86.6,27,0.167,0.223,0.227,5.5
+001052,"Soho Square , Soho",Office / City,51.515631,-0.132328,85.5,57,0.037,0.305,0.236,36.2
+001064,"Old Street Station, St. Luke's",Mixed,51.525615,-0.088532,83.0,34,0.097,0.276,0.245,17.3
+300079,"London Street, Paddington",Mixed,51.515117,-0.173712,81.7,19,0.241,0.181,0.228,-12.7
+001067,"St. James's Square, St. James's",Office / City,51.507424,-0.134621,79.9,40,0.054,0.437,0.153,69.3
+001077,"Royal London Hospital, Whitechapel",Mixed,51.518675,-0.06111,78.2,42,0.154,0.198,0.217,5.7
+001090,"Warren Street Station, Euston",Mixed,51.524438,-0.138019,77.6,26,0.106,0.252,0.216,8.6
+300242,"Allington Street, Victoria",Mixed,51.496863,-0.142943,77.5,28,0.178,0.267,0.177,12.8
+000995,"Little Argyll Street, West End",Mixed,51.514499,-0.141423,76.2,21,0.042,0.284,0.278,15.1
+200128,"Queen Street 2, Bank",Office / City,51.511246,-0.093051,76.1,36,0.086,0.423,0.127,57.9
+000999,"Queen Street 1, Bank",Office / City,51.511553,-0.09294,74.7,22,0.106,0.532,0.092,78.3
+300249,"Westminster Pier, Westminster",Leisure / park,51.501513,-0.123823,72.1,27,0.049,0.268,0.306,15.1
+300221,"Battersea Power Station, Battersea Park",Leisure / park,51.483507,-0.147714,71.6,27,0.081,0.177,0.354,3.5
+001220,"Imperial College, Knightsbridge",Office / City,51.499428,-0.179702,69.0,33,0.063,0.333,0.192,34.9
+001133,"Baylis Road, Waterloo",Mixed,51.501444,-0.110699,67.6,22,0.214,0.173,0.223,-5.8
+001092,"Moorfields, Moorgate",Office / City,51.519069,-0.088285,67.5,54,0.117,0.462,0.108,54.9
+300031,"Islington Green, Angel",Leisure / park,51.536384,-0.102757,66.9,21,0.17,0.15,0.31,-8.2
+001203,"Eastbourne Mews, Paddington",Morning origin,51.516417,-0.179135,66.9,34,0.303,0.2,0.174,-8.6
+000991,"Crosswall, Tower",Mixed,51.511594,-0.077121,66.6,34,0.236,0.292,0.113,11.6
+001217,"Serpentine Car Park, Hyde Park",Leisure / park,51.505014,-0.17306,66.5,18,0.096,0.153,0.381,2.9
+000973,"Bethnal Green Road, Shoreditch",Mixed,51.523648,-0.074754,66.2,38,0.139,0.163,0.289,-1.8
+000984,"Finsbury Circus, Liverpool Street",Office / City,51.517075,-0.086685,66.2,33,0.229,0.414,0.074,34.1
+200001,"Limerston Street, West Chelsea",Mixed,51.485587,-0.18119,64.4,18,0.204,0.186,0.192,3.8
+001160,"Craven Street, Strand",Mixed,51.508103,-0.126021,64.0,23,0.147,0.23,0.223,3.3
+300086,"Fulham Broadway, Walham Green",Mixed,51.479932,-0.194116,63.3,26,0.144,0.184,0.251,-0.4
+010624,"Strata, Elephant & Castle",Mixed,51.493146,-0.099828,62.2,41,0.231,0.138,0.263,-13.0
+200246,"Eagle Wharf Road, Hoxton",Morning origin,51.53356,-0.09315,62.0,44,0.33,0.138,0.238,-22.3
+003436,"Derry Street, Kensington",Mixed,51.501364,-0.191462,61.3,18,0.101,0.22,0.261,5.8
